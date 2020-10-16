@@ -17,36 +17,6 @@ namespace RimarKurshach
         {
             InitializeComponent();
         }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void richTextBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void richTextBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void richTextBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
         private void Add_quest_click(object sender, EventArgs e)
         {
             string questionField = "\n" + question.Text + "\n";
