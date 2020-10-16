@@ -42,15 +42,5 @@ namespace RimarKurshach
                 MessageBox.Show("Неправильный логин или пароль");
             }
         }
-
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-
-        }
-
-        private void Form6_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
