@@ -42,14 +42,5 @@ namespace RimarKurshach
             this.Hide();
 
         }
-
-        private void regLoginField_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void regGroupField_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
